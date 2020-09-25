@@ -18,7 +18,7 @@ export class Counter extends Component {
   render() {
     return (
       <div>
-        <h1>카운터</h1>
+        <h1> 여긴 카운터 </h1>
 
         <p>This is a simple example of a React component.</p>
 
